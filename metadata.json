@@ -1,0 +1,6 @@
+{
+  "name": "Jailbreak: Code 30",
+  "description": "A tactical text-based prison escape game emphasizing strategy, stats, and risk management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
